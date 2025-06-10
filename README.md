@@ -2,7 +2,7 @@ Created by Mike LaStella c. June 2025.
 
 # Desc
 
-This file is a CLI program intended to grid a video or gif into tiles. This prgm is intended for use on streamdecks, specifically the VSDINSIDE Macro Keypad. It obviously has other use cases.
+This file is a CLI program intended to grid a video or gif into tiles. This program is intended for use on streamdecks, specifically the VSDINSIDE Macro Keypad. It obviously has other use cases, but it is used for gridded LCD screens.
 
 Indended Platform: Windows
 Language: Python
